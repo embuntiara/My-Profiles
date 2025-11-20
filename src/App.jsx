@@ -103,8 +103,8 @@ const contactOptions = [
   {
     icon: "bx bx-mail-send",
     title: "Email",
-    data: "embuntiararahmatullah@gmail.com",
-    href: "mailto:embuntiararahmatullah@gmail.com",
+    data: "embuntiarar@gmail.com",
+    href: "mailto:embuntiarar@gmail.com",
   },
   {
     icon: "bx bxl-whatsapp",
