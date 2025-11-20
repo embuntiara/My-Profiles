@@ -109,8 +109,8 @@ const contactOptions = [
   {
     icon: "bx bxl-whatsapp",
     title: "Whatsapp",
-    data: "+62 858-5329-2884",
-    href: "https://api.whatsapp.com/send?phone=+6285853292884&text=Hey there!",
+    data: "+62 851-7746-4417",
+    href: "https://api.whatsapp.com/send?phone=+6285177464417&text=Hey there!",
   },
   {
     icon: "bx bxl-instagram",
